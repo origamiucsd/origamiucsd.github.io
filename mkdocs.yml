@@ -1,0 +1,21 @@
+site_name: Origami Folders @ UCSD 
+nav:
+  - Home: 'index.md'
+  - Board: 'board.md'
+  - Highlights: 'highlights.md'
+  - Contact Us!: 'contact.md'
+theme:
+  name: material
+  palette:
+    primary: blue 
+    accent: black 
+  favicon: media/favicon.png
+  logo: media/favicon.png
+  features:
+    - navigation.tabs
+markdown_extensions:
+  - admonition
+  - attr_list
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
