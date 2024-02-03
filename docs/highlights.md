@@ -28,7 +28,9 @@
 
 ### Hydra 
 
-![](media/highlights/hydra.png)
+### Capricorn
+
+![](media/highlights/capricorn.png)
 
 - Folded by: Krishna
 - Model by: ?
