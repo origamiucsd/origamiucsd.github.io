@@ -19,7 +19,7 @@ hide:
 </figure>
 <figure markdown style="display: flex; justify-content: center; align-items: center;">
   <div style="text-align: center; margin-right: 20px; margin-left: 60px">
-    <img src="../media/board/alisha.jpg" width="250" style="margin-right: 20px;">
+    <img src="../media/board/krishna.jpg" width="250" style="margin-right: 20px;">
     <figcaption><strong>Krishna Girkar</strong><br>Board Member</figcaption>
   </div>
   <div style="text-align: center; margin-right: 20px;">
