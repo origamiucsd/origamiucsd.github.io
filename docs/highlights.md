@@ -12,7 +12,7 @@
 ![](media/highlights/wizard.png)
 
 - Folded by: Krishna
-- Model by: ?
+- Model by: Satoshi Kamiya
 
 ### Whales
 
@@ -26,11 +26,11 @@
 
 ![](media/highlights/otters.png)
 
-### Hydra 
+- Model by: Gen Hagiwara
 
 ### Capricorn
 
 ![](media/highlights/capricorn.png)
 
 - Folded by: Krishna
-- Model by: ?
+- Model by: Kade Chan
