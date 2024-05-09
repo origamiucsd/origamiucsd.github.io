@@ -17,5 +17,5 @@ We provide an inclusive environment for everyone to fold and discuss all things 
 !!! info "Meetings"
 	- Weekly meetings from week 1 to week 10 every quarter
 	- Timing changes each quarter, see [discord](https://discord.gg/6qBqJ2KYrm) for more info
-	- All skills welcome
-	- paper provided
+	- All skill levels welcome
+	- Paper will be provided (but feel free to bring your own!)
