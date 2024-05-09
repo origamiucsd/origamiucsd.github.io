@@ -1,2 +1,2 @@
-# Origami Folders website
-made with mkdocs
+# Origami Folders Website
+Usage: Connect to UCSD wifi or vpn and run `./deploy.sh`
