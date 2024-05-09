@@ -6,7 +6,7 @@ hide:
 
 
 ![](media/banner.jpg){width=500 , align=right }
-# **Origami Folders at UCSD**
+# **Origami Folders at UC San Diego**
 We Provide an inclusive environment for everyone to fold and discuss all things origami!
 
 [Join Our Discord](https://discord.gg/6qBqJ2KYrm){ .md-button }
