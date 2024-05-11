@@ -1,4 +1,4 @@
-# Highlights 
+# Gallery
 
 ## Videos
 ### The Violinist
@@ -9,28 +9,28 @@
 
 ### Wizard
 
-![](media/highlights/wizard.png)
+![](media/gallery/wizard.png)
 
 - Folded by: Krishna
 - Model by: Satoshi Kamiya
 
 ### Whales
 
-![](media/highlights/whales.png)
+![](media/gallery/whales.png)
 
 ### Modulars 
 
-![](media/highlights/modulars.png)
+![](media/gallery/modulars.png)
 
 ### Otters 
 
-![](media/highlights/otters.png)
+![](media/gallery/otters.png)
 
 - Model by: Gen Hagiwara
 
 ### Capricorn
 
-![](media/highlights/capricorn.png)
+![](media/gallery/capricorn.png)
 
 - Folded by: Krishna
 - Model by: Kade Chan
