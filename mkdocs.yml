@@ -2,8 +2,7 @@ site_name: Origami Folders at UC San Diego
 nav:
   - Home: 'index.md'
   - Board: 'board.md'
-  - Highlights: 'highlights.md'
-  - Contact Us!: 'contact.md'
+  - Gallery: 'gallery.md'
 theme:
   name: material
   palette:
@@ -13,6 +12,14 @@ theme:
   logo: media/favicon.png
   features:
     - navigation.tabs
+extra:
+  social:
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/origamifoldersucsd
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/6qBqJ2KYrm
+    - icon: fontawesome/solid/envelope
+      link: mailto:origami@ucsd.edu
 markdown_extensions:
   - admonition
   - attr_list
