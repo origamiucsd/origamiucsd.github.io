@@ -4,7 +4,7 @@ hide:
   - toc
 ---
 
-![](media/banner.jpg){width=500 , align=right }
+<!-- ![](media/banner.jpg){width=500 , align=right } -->
 # **Origami Folders at UC San Diego**
 We are an inclusive community for everyone interested in all things origami!
 
