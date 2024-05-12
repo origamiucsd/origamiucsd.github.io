@@ -1,0 +1,9 @@
+.flex-container {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: stretch;
+}
+
+.flex-container > div {
+  flex: 1;
+}
