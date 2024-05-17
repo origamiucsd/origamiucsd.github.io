@@ -13,7 +13,7 @@ galleries:
     url: board_members.html#grace-wang
     href: grace-wang
     description: board_members/grace_wang.md
-  - title: Jason Change
+  - title: Jason Chang
     image: /assets/images/board_members/TODO.jpg
     url: board_members.html#jason-chang
     href: jason-chang
