@@ -14,7 +14,7 @@ galleries:
     href: grace-wang
     description: board_members/grace_wang.md
   - title: Jason Chang
-    image: /assets/images/board_members/TODO.jpg
+    image: /assets/images/board_members/PHiZZ_torus.jpg
     url: board_members.html#jason-chang
     href: jason-chang
     description: board_members/jason_chang.md
