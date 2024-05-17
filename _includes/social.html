@@ -1,0 +1,15 @@
+<ul class="social-media-list">
+  <li>
+    <a href="https://instagram.com/{{ site.instagram_username| cgi_escape | escape }}">
+      <svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#instagram' | relative_url }}"></use></svg>
+    </a>
+  </li>
+  <li>
+    <a href="{{ site.discord }}"><img class="svg-icon" src="/assets/icons/discord.svg"></img></a>
+  </li>
+  <li>
+    <a href="https://youtube.com/@{{ site.youtube_username| cgi_escape | escape }}">
+      <svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#youtube' | relative_url }}"></use></svg>
+    </a>
+  </li>
+</ul>
