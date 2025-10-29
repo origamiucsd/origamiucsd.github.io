@@ -3,4 +3,4 @@
 source "https://rubygems.org"
 
 gem "jekyll"
-gem "minima"
+gem "minima", github: "jekyll/minima", branch: "2.5-stable"
